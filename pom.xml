@@ -118,6 +118,7 @@
                         </configuration>
                         <version>${maven-compiler-plugin.version}</version>
                     </plugin>
+                  
                     <plugin>
                         <groupId>com.lazerycode.selenium</groupId>
                         <artifactId>driver-binary-downloader-maven-plugin</artifactId>
